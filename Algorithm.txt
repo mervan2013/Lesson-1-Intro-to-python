@@ -1,0 +1,4 @@
+Take 2 numbers and store it in 2 variables a & b.
+Take another varible c which holds the result of a & b.
+a=2 b=2 c=a+b 2+2=4
+The sum of a & b is stored in c which is 4.
